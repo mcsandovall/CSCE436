@@ -1,0 +1,8 @@
+pokemon sprites
+https://github.com/msikma/pokesprite/blob/master/items/ball/poke.png
+
+font:
+https://www.cdnfonts.com/pokemon-solid.font
+
+pokemon-trainer:
+https://www.pngaaa.com/detail/1695519
